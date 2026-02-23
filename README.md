@@ -3,9 +3,9 @@
 This project analyzes client utilization, revenue concentration, and unrealized capacity for a personal trainer using an anonymized real-world dataset. The goal was to identify where revenue is generated, where schedule capacity exists, and which clients represent growth opportunities. \
 The analysis combines Excel based data preperation with a Python analytics pipeline to produce automated metrics, segmentation logic, and visual insights.
 ## Business Questions
-- Which clients generate the most revenue? \
-- Are some clients under utilizing their scheduled capacity? \
-- How concentrated is revenue across clients? \
+- Which clients generate the most revenue? 
+- Are some clients under utilizing their scheduled capacity? 
+- How concentrated is revenue across clients? 
 - What is the monthly revenue oppurtunity from unused training hours?
 ## Dataset
 The dataset represents three months of client activity and includes:
