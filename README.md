@@ -1,5 +1,6 @@
 # personal_training_analytics
 ## Overview
+The analysis identified approximately $1.1k in monthly unrealized revenue opportunity driven by underutilized client capacity. \
 This project analyzes client utilization, revenue concentration, and unrealized capacity for a personal trainer using an anonymized real-world dataset. The goal was to identify where revenue is generated, where schedule capacity exists, and which clients represent growth opportunities. \
 The analysis combines Excel based data preperation with a Python analytics pipeline to produce automated metrics, segmentation logic, and visual insights.
 ## Business Questions
@@ -37,7 +38,7 @@ Libraries Used: \
 - Approximately 19 unused hours exist per month on average
 - This represents roughly $1.1k monthly revenue opportunity
 ## Dashboard
-- ### Average Monthly Revenue by Client Segmentation
+- ### Average Monthly Revenue by Client Segment
 - ### Unrealized Training Hours by Client (3 Months)
 ## Project Structure
 ```
